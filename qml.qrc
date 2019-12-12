@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Panel.qml</file>
+        <file>PanelForm.ui.qml</file>
+        <file>Panel_right.qml</file>
+        <file>Panel_rightForm.ui.qml</file>
+        <file>ikona.png</file>
+        <file>pen.png</file>
+        <file>Panel_botton.qml</file>
+        <file>Panel_bottonForm.ui.qml</file>
+        <file>Panel_interface.qml</file>
+        <file>Panel_interfaceForm.ui.qml</file>
+    </qresource>
+</RCC>
