@@ -21,6 +21,13 @@ id : choice
                 height: 1.2*value_elementInputer.height * (0.5 *_in+1)
                 color: _color
                 anchors.top: row_elementInputer.top
+                MouseArea{
+                    anchors.fill: backgrand_elementInputer
+                    onClicked: {
+                         console.log("kliknięcie w pole " + value)
+                    }
+
+                }
 
                 Text
                 {

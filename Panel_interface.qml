@@ -20,6 +20,13 @@ Panel_interfaceForm{
                text: value
                color: _color
                anchors.centerIn: kwadrat_zapisz
+               MouseArea{
+                   anchors.fill: text_kwadrat_Zapisz
+                   onClicked: {
+                        console.log("kliknięcie w przycisk " + value)
+                   }
+
+               }
            }
        }
     }

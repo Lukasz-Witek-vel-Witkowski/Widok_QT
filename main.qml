@@ -38,10 +38,18 @@ Window {
 
                     Text
                     {
+                        id: text_X
                         text: "X"
                           anchors.verticalCenter: row_empty.verticalCenter
                           x: row_empty.x+10
                           font.pointSize: 14
+                          MouseArea{
+                              anchors.fill: text_X
+                              onClicked: {
+                                   console.log("kliknięcie w przycisck wyjscie")
+                              }
+
+                          }
                     }
 
                 }

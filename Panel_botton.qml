@@ -20,6 +20,13 @@ Panel_bottonForm{
                text: value
                color: _color
                anchors.centerIn: kwadrat
+               MouseArea{
+                   anchors.fill: text_kwadrat
+                   onClicked: {
+                        console.log("kliknięcie w przycisck " + value)
+                   }
+
+               }
             }
         }
     }
