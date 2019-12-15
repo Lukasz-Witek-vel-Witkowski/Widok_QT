@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Device_PanelForm.ui.qml</file>
+        <file>ModelDevice.qml</file>
+        <file>Device_Panel.qml</file>
+        <file>View.qml</file>
+        <file>check-solid.svg</file>
+        <file>globe-solid.svg</file>
+        <file>pen-solid.xcf</file>
+        <file>pen-solid.svg</file>
+    </qresource>
+</RCC>
