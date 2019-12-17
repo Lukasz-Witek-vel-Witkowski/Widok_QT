@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>View.qml</file>
+        <file>ViewFormularz.ui.qml</file>
+        <file>Device.qml</file>
+        <file>DeviceFormularz.ui.qml</file>
+        <file>DeviceModel.qml</file>
+        <file>check-solid.svg</file>
+        <file>globe-solid.svg</file>
+        <file>pen-solid.svg</file>
+        <file>Inputer.qml</file>
+        <file>InputerFormularz.ui.qml</file>
+    </qresource>
+</RCC>
