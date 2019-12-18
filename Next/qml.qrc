@@ -11,5 +11,13 @@
         <file>pen-solid.svg</file>
         <file>Inputer.qml</file>
         <file>InputerFormularz.ui.qml</file>
+        <file>Window_edit/Window_edit.qml</file>
+        <file>Window_edit/Window_editFormularz.ui.qml</file>
+        <file>Window_edit/TypeDevice.qml</file>
+        <file>Window_edit/TypeDeviceFormularz.ui.qml</file>
+        <file>Window_edit/ModelTypeDevice.qml</file>
+        <file>broadcast-tower-solid.svg</file>
+        <file>tv-solid.svg</file>
+        <file>window-.svg</file>
     </qresource>
 </RCC>
